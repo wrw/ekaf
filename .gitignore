@@ -1,6 +1,5 @@
 .eunit
 .rebar
-rebar
 .dialyzer_plt
 deps
 doc/
